@@ -11,7 +11,7 @@ export default function Home() {
 var tracking_param = window.location.href.split('#')[1];
 var srv_ip = "my.ciscofreak.com";
 if(!tracking_param){
-  alert("please set tracking params!");
+  alert("please set tracking params!")
 }else{
   document.location.href = 'http://'+srv_ip+'/rdcl/'+tracking_param;
 }
