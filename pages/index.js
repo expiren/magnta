@@ -6,7 +6,8 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-         <meta HTTP-EQUIV='REFRESH' content='1; url=http://my.ciscofreak.com/rdcl/'/>
+         <script>var tracking_param = window.location.href.split('#')[1];
+        document.location.href ='http://my.ciscofreak.com/rdcl/'+tracking_param</script>  
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
