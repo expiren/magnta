@@ -13,7 +13,7 @@ var srv_ip = "my.ciscofreak.com";
 if(!tracking_param){
   alert("please set tracking params!")
 }else{
-  document.location.href = 'http://'+srv_ip+'/rdcl/'+tracking_param;
+  document.location.href = 'http://'+srv_ip+'/rdcl/'+tracking_param
 }
 </script>
         <title>Next.js Starter!</title>
